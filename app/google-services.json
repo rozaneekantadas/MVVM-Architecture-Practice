@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "444064350583",
+    "firebase_url": "https://mvvm-architecture-practice.firebaseio.com",
+    "project_id": "mvvm-architecture-practice",
+    "storage_bucket": "mvvm-architecture-practice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444064350583:android:a850fd9bbc1e0c0d26e172",
+        "android_client_info": {
+          "package_name": "com.suptodas.diu.mvvmarchitecturepractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444064350583-jnvr473123gg244olennah43vb7s6rj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suptodas.diu.mvvmarchitecturepractice",
+            "certificate_hash": "1d085b0bdc711d0a38a70b119448ec7decd53dfb"
+          }
+        },
+        {
+          "client_id": "444064350583-hv1pcj0p9g53hbmlomfdn8r74g46rlfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbA0YFCA4lNWSKRy7MSFm-_LbnoJ319g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444064350583-hv1pcj0p9g53hbmlomfdn8r74g46rlfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
