@@ -6,7 +6,7 @@ This is an simple android apps where user can sign in via Google Sign In Firebas
 
 # What is MVVM Architecture?
 - MVVM instance of Model View ViewModel
-- Documentation Link: developer.android.com/jetpack/guide
+- Documentation Link: https://developer.android.com/jetpack/guide
 
 # Tutorial
 - I followed this tutorial to learn MVVM pattern
